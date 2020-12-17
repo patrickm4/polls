@@ -1,0 +1,17 @@
+.btns-box{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.result-btns{
+  display: flex;
+  margin: 20px 0;
+}
+.result-btns > button{
+  margin-left: 10px;
+}
+.result-box{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
